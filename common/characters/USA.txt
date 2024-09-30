@@ -1,0 +1,16 @@
+characters={
+	USA_Charles_Percy = {
+	name = "查尔斯·珀西"
+	country_leader={
+		ideology = New_authoritarianism
+		traits={ }
+		expire="9999.12.31.1"
+		id=-1
+	}
+	portraits={
+		civilian={
+			large = GFX_portrait_USA_Charles_Percy
+		}
+	}
+	}
+}

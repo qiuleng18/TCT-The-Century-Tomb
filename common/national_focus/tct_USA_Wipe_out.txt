@@ -1,0 +1,16 @@
+shared_focus = {
+	id = GER_current_situation
+	icon = GFX_focus_ger_current_situation
+	x =20
+	y = -40
+	cost = 2
+	ai_will_do = {
+		base = 100
+	}
+	completion_reward = {
+		country_event = { id = germany.1 days = 1 }
+		add_stability = -0.05
+		log = "[GetDateText]: [Root.GetName]: GER_current_situation"
+	}
+	dynamic = yes
+}

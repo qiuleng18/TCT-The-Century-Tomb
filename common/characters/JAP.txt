@@ -1,0 +1,16 @@
+characters={
+	JAP_Masayoshi_Fukuda = {
+	name = "福田正义"
+	country_leader={
+		ideology = Maoism
+		traits={ }
+		expire="9999.12.31.1"
+		id=-1
+	}
+	portraits={
+		civilian={
+			large = GFX_portrait_JAP_Masayoshi_Fukuda
+		}
+	}
+	}
+}

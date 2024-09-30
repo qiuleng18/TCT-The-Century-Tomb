@@ -1,0 +1,16 @@
+characters={
+	ENG_Margaret_Thatcher = {
+	name = "玛格丽特·撒切尔"
+	country_leader={
+		ideology = Thatcherism
+		traits={ }
+		expire="9999.12.31.1"
+		id=-1
+	}
+	portraits={
+		civilian={
+			large = GFX_portrait_ENG_Margaret_Thatcher
+		}
+	}
+	}
+}

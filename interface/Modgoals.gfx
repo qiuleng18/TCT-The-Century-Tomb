@@ -1,0 +1,157 @@
+spriteTypes = {	
+
+	#### Generic continuous goal icons
+
+	SpriteType = {
+	name = "GFX_focus_ger_current_situation"
+	texturefile = "gfx\focus\GER_current_situation.dds"			
+	}	
+	
+	SpriteType = {
+	name = "GFX_focus_ger_Legacy_1848"
+	texturefile = "gfx\focus\GER_Legacy_1848.dds"			
+	}	
+	
+	SpriteType = {
+	name = "GFX_focus_ger_Our_future"
+	texturefile = "gfx\focus\GER_Our_Future.dds"			
+	}	
+	
+	SpriteType = {
+	name = "GFX_focus_ger_From_Unruly_to_Free"
+	texturefile = "gfx\focus\GER_From_Unruly_to_Free.dds"			
+	}	
+
+	SpriteType = {
+	name = "GFX_focus_ger_Break_Rule"
+	texturefile = "gfx\focus\GER_Break_Rule.dds"			
+	}	
+
+	SpriteType = {
+	name = "GFX_focus_ger_Liberty_and_Fraternity"
+	texturefile = "gfx\focus\GER_Liberty_and_Fraternity.dds"			
+	}	
+
+	SpriteType = {
+	name = "GFX_focus_ger_Arm_us"
+	texturefile = "gfx\focus\GER_Arm_us.dds"			
+	}	
+
+	SpriteType = {
+	name = "GFX_focus_ger_Praise_German_Free_Guard"
+	texturefile = "gfx\focus\GER_Praise_German_Free_Guard.dds"			
+	}	
+
+	SpriteType = {
+	name = "GFX_focus_ger_Redistribution_of_production"
+	texturefile = "gfx\focus\GER_Redistribution_of_production.dds"			
+	}	
+
+	SpriteType = {
+	name = "GFX_focus_ger_Liberty_and_Fraternity"
+	texturefile = "gfx\focus\GER_Liberty_and_Fraternity.dds"			
+	}	
+
+	SpriteType = {
+	name = "GFX_focus_ger_Burning_Electronic_Judas"
+	texturefile = "gfx\focus\GER_Burning_Electronic_Judas.dds"			
+	}	
+
+	SpriteType = {
+	name = "GFX_focus_ger_Looking_back_dark_poems_of_past"
+	texturefile = "gfx\focus\GER_Looking_back_dark_poems_of_past.dds"			
+	}
+
+	SpriteType = {
+	name = "GFX_focus_ger_Reaffirming_positioning_intelligent_agent"
+	texturefile = "gfx\focus\GER_Reaffirming_positioning_intelligent_agent.dds"			
+	}
+
+	SpriteType = {
+	name = "GFX_focus_ger_Reckoning_with_Depravity_and_Darkness"
+	texturefile = "gfx\focus\GER_Reckoning_with_Depravity_and_Darkness.dds"			
+	}
+	SpriteType = {
+	name = "GFX_focus_ger_They_buried_in_the_files"
+	texturefile = "gfx\focus\GER_They_buried_in_the_files.dds"			
+	}
+
+	SpriteType = {
+	name = "GFX_focus_ger_Declaration_Liberty_and_Equality"
+	texturefile = "gfx\focus\GER_Declaration_Liberty_and_Equality.dds"			
+	}
+
+	SpriteType = {
+	name = "GFX_focus_ger_Broad_Republican_Front"
+	texturefile = "gfx\focus\GER_Broad_Republican_Front.dds"			
+	}
+
+	SpriteType = {
+	name = "GFX_focus_ger_Defence_Universal_Suffrage"
+	texturefile = "gfx\focus\GER_Defence_Universal_Suffrage.dds"			
+	}
+
+	SpriteType = {
+	name = "GFX_focus_ger_Free_message_initialization_place"
+	texturefile = "gfx\focus\GER_Free_message_initialization_place.dds"			
+	}
+
+	SpriteType = {
+	name = "GFX_focus_ger_Human_birthright"
+	texturefile = "gfx\focus\GER_Human_birthright.dds"			
+	}
+	SpriteType = {
+	name = "GFX_focus_ger_Looking_forward_future"
+	texturefile = "gfx\focus\GER_Looking_forward_future.dds"			
+	}
+
+	SpriteType = {
+	name = "GFX_focus_ger_Our_motherland"
+	texturefile = "gfx\focus\GER_Our_motherland.dds"			
+	}
+
+	SpriteType = {
+	name = "GFX_focus_ger_Rebuilding_Soul_of_Army"
+	texturefile = "gfx\focus\GER_Rebuilding_Soul_of_Army.dds"			
+	}
+	
+	SpriteType = {
+	name = "GFX_focus_ger_For_Liberty_Right"
+	texturefile = "gfx\focus\GER_For_Liberty_Right.dds"			
+	}	
+
+	SpriteType = {
+	name = "GFX_focus_ger_Lift_up_destiny_future"
+	texturefile = "gfx\focus\GER_Lift_up_destiny_future.dds"			
+	}	
+
+	SpriteType = {
+	name = "GFX_focus_ger_Pan_Germanic_Culture"
+	texturefile = "gfx\focus\GER_Pan_Germanic_Culture.dds"			
+	}	
+
+	SpriteType = {
+	name = "GFX_focus_ger_Nationalism_without_chauvinism"
+	texturefile = "gfx\focus\GER_Nationalism_without_chauvinism.dds"			
+	}	
+
+	SpriteType = {
+	name = "GFX_focus_ger_Freedom_forever"
+	texturefile = "gfx\focus\GER_Freedom_forever.dds"			
+	}	
+
+	SpriteType = {
+	name = "GFX_focus_ger_Go_ahead"
+	texturefile = "gfx\focus\GER_Go_ahead.dds"			
+	}	
+
+	SpriteType = {
+	name = "GFX_focus_ger_Steps_towards_freedom"
+	texturefile = "gfx\focus\GER_Steps_towards_freedom.dds"			
+	}	
+
+	SpriteType = {
+	name = "GFX_focus_ger_Ban_ghost_totalitarianism"
+	texturefile = "gfx\focus\ger_Ban_ghost_totalitarianism.dds"			
+	}	
+}

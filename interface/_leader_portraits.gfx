@@ -1,0 +1,28 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_portrait_USA_Charles_Percy"
+		texturefile = "gfx/leaders/USA/Portrait_USA_Charles_Percy.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_CHI_Li_Peng"
+		texturefile = "gfx/leaders/CHI/Portrait_CHI_Li_Peng.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_JAP_Masayoshi_Fukuda"
+		texturefile = "gfx/leaders/JAP/Portrait_JAP_Masayoshi_Fukuda.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_ENG_Margaret_Thatcher"
+		texturefile = "gfx/leaders/ENG/Portrait_ENG_Margaret_Thatcher.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_RUS_Boris_Yeltsin"
+		texturefile = "gfx/leaders/RUS/Portrait_RUS_Boris_Yeltsin.dds"
+	}
+
+}

@@ -1,0 +1,249 @@
+ideologies = {
+
+    
+    Vanguard_socialism = {
+
+		types = {
+
+			Marxism_Leninism = {
+            }
+
+            Maoism = {
+            }
+
+            Trotskyism = {
+            }
+
+            Hoxha_Doctrine = {
+            }
+		}
+
+        color = { 165 24 24 }
+
+	}
+
+    Radical_socialism = {
+
+		types = {
+
+			Luxembourgism = {
+            }
+
+            Anarchic_Socialism = {
+            }
+
+            Jacobinism = {
+            }
+
+            Syndicalism = {
+            }
+
+            Left_wing_communism = {
+            }
+
+            Castroism = {
+            }
+		}
+
+        color = { 244 14 14 }
+
+	}
+
+	Moderate_socialism = {
+
+		types = {
+
+			Labourism = {
+            }
+
+            European_style_social_democracy = {
+            }
+
+            Christian_socialism = {
+            }
+
+			Democratic_socialism = {
+			}
+
+		}
+        
+        color = { 255 101 101  }
+	}
+	Progressive_liberalism = {
+
+		types = {
+			Modern_liberalism = {
+            }
+
+            Social_liberalism = {
+            }
+
+            Classical_liberalism = {
+            }
+
+            National_liberalism = {
+            }
+
+
+		}
+
+        color = { 101 160 247 }
+
+	}
+	Liberal_Democracy ={
+		types = {
+			Modern_Liberalism ={
+			}
+
+			Social_Liberalism ={
+			}
+			
+			Libertarianism ={
+			}
+
+			Green_Party_Politics ={
+			}
+
+		}
+
+		color = { 198 217 245 }
+	}
+	Democratic_Conservatism = {
+
+		types = {
+			Neoconservatism = {
+            }
+
+            Populist_conservatism = {
+            }
+
+		#}
+
+        #color =  { 244 14 14 }
+
+	#}
+	#Democratic_conservatism = {
+		#types = {
+			Christian_democracy = {
+            }
+
+            Liberal_conservatism = {
+            }
+
+
+            Gaullism = {
+            }
+
+		    Intelligent_restrictionism = {
+            }
+            
+            Thatcherism = {
+            }
+		}
+
+        
+
+        color = { 51 114 208  }
+
+	}
+
+	Authoritarian_conservatism = {
+
+		types = {
+			
+			New_authoritarianism = {
+            }
+
+            National_conservatism = {
+            }
+
+            Religious_authoritarianism = {
+            }
+
+			
+            Bismarck_conservatism = {
+            }
+		}
+        color = { 19 115 127 }
+	}
+
+
+	Authoritarian_authoritarianism = {
+
+		types = {
+
+			Junta = {
+            }
+
+            Personal_dictatorship = {
+            }
+
+            One_party_rule = {
+            }
+
+            Theocracy = {
+            }
+
+            Technocratic_Despotism = {
+            }
+
+            Digital_totalitarianism = {
+            }
+
+		}
+
+        color = { 139 139 139  }
+
+	}
+	Authoritarian_nationalism = {
+
+		types = {
+			National_conservatism = {
+            }
+
+            Fascism = {
+            }
+
+            National_revolutionism = {
+            }
+
+		}
+
+        color = { 95 77 62 }
+
+	}
+	Totalitarian_nationalism = {
+
+		types = {
+			Nazism = {
+            }
+
+            Militaristic_totalitarianism = {
+            }
+
+            Religious_totalitarian_nationalism = {
+            }
+
+		}
+
+        color = { 137 60 0 }
+
+	}
+	Techno_utopianism = {
+
+		types = {
+			Social_futurism = {
+            }
+
+            Social_techno_ism = {
+            }
+
+            Two_dimensional_maximalism = {
+            }
+
+
+	    }	
+
+        color = { 238 225 255 }
+    }
+}

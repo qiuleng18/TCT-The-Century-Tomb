@@ -1,0 +1,43 @@
+state = {
+	id = 1192
+	name = "STATE_1192"
+	manpower = 655896
+	state_category = state_03
+
+	resources = {
+		tungsten = 10
+		chromium = 32
+	}
+
+	history = {
+		owner = SOV
+		victory_points = {
+			12518 1
+		}
+
+		buildings = {
+			infrastructure = 1
+			internet_station = 1
+			arms_factory = 1
+			air_base = 10
+			missile_silo = 3
+			industrial_complex = 1
+			9604 = {
+				naval_base = 4
+			}
+			12559 = {
+				naval_base = 2
+			}
+			12518 = {
+				naval_base = 1
+			}
+		}
+
+		add_core_of = SOV
+		
+	}
+
+	provinces = {
+		4810 4881 10572 10598 12518 12551 12650 14320
+	}
+}

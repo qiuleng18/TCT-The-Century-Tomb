@@ -1,0 +1,147 @@
+shared_focus = {
+	id = USA_Dying_Bald_Eagle
+	icon = GFX_focus_USA_Dying_Bald_Eagle
+	x =20
+	y = -40
+	cost = 2
+	ai_will_do = {
+		base = 100
+	}
+	completion_reward = {
+		country_event = { id = germany.1 days = 1 }
+		add_stability = -0.05
+		log = "[GetDateText]: [Root.GetName]: GER_current_situation"
+	}
+	dynamic = yes
+}
+
+shared_focus = {
+	id = USA_Brokened_Flag
+	icon = GFX_focus_USA_Dying_Bald_Eagle
+	relative_position_id = USA_Dying_Bald_Eagle
+	x = 0
+	y = 1
+	cost = 2
+	ai_will_do = {
+		base = 100
+	}
+	prerequisite = { focus = USA_Dying_Bald_Eagle }
+	completion_reward = {
+		country_event = { id = germany.1 days = 1 }
+		add_stability = -0.05
+		log = "[GetDateText]: [Root.GetName]: GER_current_situation"
+	}
+	dynamic = yes
+}
+
+shared_focus = {
+	id = USA_But_Will_Fix_It
+	icon = GFX_focus_USA_Dying_Bald_Eagle
+	relative_position_id = USA_Brokened_Flag
+	x = 0
+	y = 1
+	cost = 2
+	ai_will_do = {
+		base = 100
+	}
+	prerequisite = { focus = USA_Brokened_Flag }
+	completion_reward = {
+		country_event = { id = germany.1 days = 1 }
+		add_stability = -0.05
+		log = "[GetDateText]: [Root.GetName]: GER_current_situation"
+	}
+	dynamic = yes
+}
+
+shared_focus = {
+	id = USA_American_Hammer
+	icon = GFX_focus_USA_Dying_Bald_Eagle
+	relative_position_id = USA_But_Will_Fix_It
+	x = -5
+	y = 1
+	cost = 2
+	ai_will_do = {
+		base = 100
+	}
+	prerequisite = { focus = USA_But_Will_Fix_It }
+	completion_reward = {
+		country_event = { id = germany.1 days = 1 }
+		add_stability = -0.05
+		log = "[GetDateText]: [Root.GetName]: GER_current_situation"
+	}
+	dynamic = yes
+}
+
+shared_focus = {
+	id = USA_American_Pliers
+	icon = GFX_focus_USA_Dying_Bald_Eagle
+	relative_position_id = USA_But_Will_Fix_It
+	x = 0
+	y = 1
+	cost = 2
+	ai_will_do = {
+		base = 100
+	}
+	prerequisite = { focus = USA_But_Will_Fix_It }
+	completion_reward = {
+		country_event = { id = germany.1 days = 1 }
+		add_stability = -0.05
+		log = "[GetDateText]: [Root.GetName]: GER_current_situation"
+	}
+	dynamic = yes
+}
+
+shared_focus = {
+	id = USA_American_Screwdriver
+	icon = GFX_focus_USA_Dying_Bald_Eagle
+	relative_position_id = USA_But_Will_Fix_It
+	x = 5
+	y = 1
+	cost = 2
+	ai_will_do = {
+		base = 100
+	}
+	prerequisite = { focus = USA_But_Will_Fix_It }
+	completion_reward = {
+		country_event = { id = germany.1 days = 1 }
+		add_stability = -0.05
+		log = "[GetDateText]: [Root.GetName]: GER_current_situation"
+	}
+	dynamic = yes
+}
+
+shared_focus = {
+	id = USA_Meet_Bill_Gates
+	icon = GFX_focus_USA_Dying_Bald_Eagle
+	relative_position_id = USA_Dying_Bald_Eagle
+	x = -20
+	y = -30
+	cost = 2
+	ai_will_do = {
+		base = 100
+	}
+	completion_reward = {
+		country_event = { id = germany.1 days = 1 }
+		add_stability = -0.05
+		log = "[GetDateText]: [Root.GetName]: GER_current_situation"
+	}
+	dynamic = yes
+}
+
+shared_focus = {
+	id = USA_Meet_Daniel_Burnham
+	icon = GFX_focus_USA_Dying_Bald_Eagle
+	relative_position_id = USA_Dying_Bald_Eagle
+	x = -20
+	y = -20
+	cost = 2
+	ai_will_do = {
+		base = 100
+	}
+	completion_reward = {
+		country_event = { id = germany.1 days = 1 }
+		add_stability = -0.05
+		log = "[GetDateText]: [Root.GetName]: GER_current_situation"
+	}
+	dynamic = yes
+}

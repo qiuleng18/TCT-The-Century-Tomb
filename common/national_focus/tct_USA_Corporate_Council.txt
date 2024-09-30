@@ -1,0 +1,22 @@
+shared_focus = {
+	id = USA_Great_Meeting
+	icon = GFX_focus_ger_Legacy_1848
+	relative_position_id = USA_Dying_Bald_Eagle
+	x = 0
+	y = 2.5
+	cost = 1
+	ai_will_do = {
+		base = 100
+	}
+	prerequisite = { focus = USA_Dying_Bald_Eagle }
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus USA_Great_Meeting"
+		country_event = { id = germany.2 days = 1 }
+		add_stability = 0.1
+		add_war_support = 0.05
+	}
+	dynamic = yes
+	allow_branch = {
+		has_country_flag = GER_Republican_line
+	}
+}

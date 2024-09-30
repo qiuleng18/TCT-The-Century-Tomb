@@ -1,0 +1,5 @@
+#Solomon Islands
+graphical_culture = asian_gfx
+graphical_culture_2d = asian_2d
+
+color = { 1 87  220 } #random

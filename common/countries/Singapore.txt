@@ -1,0 +1,5 @@
+#Singapore
+graphical_culture = asian_gfx
+graphical_culture_2d = asian_2d
+
+color = { 18 17  200 } #random

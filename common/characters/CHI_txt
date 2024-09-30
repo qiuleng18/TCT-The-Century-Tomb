@@ -1,0 +1,16 @@
+characters={
+	CHI_Li_Peng={
+	name = "李鹏"
+	country_leader={
+		ideology = New_authoritarianism
+		traits={ }
+		expire="9999.12.31.1"
+		id=-1
+	}
+	portraits={
+		civilian={
+			large = GFX_portrait_CHI_Li_Peng
+		}
+	}
+	}
+}

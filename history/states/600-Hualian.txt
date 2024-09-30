@@ -1,0 +1,37 @@
+state = {
+	id = 600
+	name = "STATE_600"
+	
+	state_category = state_01
+
+	resources = {
+		aluminium = 2
+		steel = 26
+	}
+
+	history = {
+		owner = CHI
+		victory_points = { 4096 3 } #Hualian
+		victory_points = { 1175 1 } #Taidong
+		
+		buildings = {
+			infrastructure = 2
+			internet_station = 2
+			industrial_complex = 1
+			fuel_silo = 1
+			air_base = 4
+			radar_station = 1
+			4096 = {
+				naval_base = 2
+			}
+			1175 = {
+				naval_base = 4
+			}
+		}
+		add_core_of = CHI
+	}
+	manpower = 686933
+	provinces = {
+		9955 4096 1175 14698
+	}
+}

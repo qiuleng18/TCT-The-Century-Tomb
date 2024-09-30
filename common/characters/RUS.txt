@@ -1,0 +1,16 @@
+characters={
+	RUS_Boris_Yeltsin={
+	name = "鲍里斯·叶利钦"
+	country_leader={
+		ideology = Personal_dictatorship
+		traits={ }
+		expire="9999.12.31.1"
+		id=-1
+	}
+	portraits={
+		civilian={
+			large = GFX_portrait_RUS_Boris_Yeltsin
+		}
+	}
+	}
+}

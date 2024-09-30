@@ -1,0 +1,5 @@
+#Tuva
+graphical_culture = asian_gfx
+graphical_culture_2d = asian_2d
+
+color = { 83  1  143 } #random

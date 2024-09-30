@@ -1,0 +1,15 @@
+focus_tree = {
+	id = tct_USA_main
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = USA
+		}
+	}
+	default = no
+	shared_focus = USA_Dying_Bald_Eagle
+	shared_focus = USA_Great_Meeting
+	
+	continuous_focus_position = { x = 4500 y = 10 }
+}
