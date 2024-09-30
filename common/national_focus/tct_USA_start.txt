@@ -54,7 +54,7 @@ shared_focus = {
 }
 
 shared_focus = {
-	id = USA_American_Hammer
+	id = USA_American_Safety
 	icon = GFX_focus_USA_Dying_Bald_Eagle
 	relative_position_id = USA_But_Will_Fix_It
 	x = -5
@@ -73,7 +73,7 @@ shared_focus = {
 }
 
 shared_focus = {
-	id = USA_American_Pliers
+	id = USA_American_Housekeeping
 	icon = GFX_focus_USA_Dying_Bald_Eagle
 	relative_position_id = USA_But_Will_Fix_It
 	x = 0
@@ -92,7 +92,7 @@ shared_focus = {
 }
 
 shared_focus = {
-	id = USA_American_Screwdriver
+	id = USA_American_Economic
 	icon = GFX_focus_USA_Dying_Bald_Eagle
 	relative_position_id = USA_But_Will_Fix_It
 	x = 5
@@ -109,6 +109,106 @@ shared_focus = {
 	}
 	dynamic = yes
 }
+
+#Safety
+
+#CIA
+shared_focus = {
+	id = USA_Claws_in_Shadow
+	icon = GFX_focus_USA_Dying_Bald_Eagle
+	relative_position_id = USA_American_Safety
+	x = -1
+	y = 1
+	cost = 2
+	ai_will_do = {
+		base = 100
+	}
+	prerequisite = { focus = USA_American_Safety }
+	completion_reward = {
+		country_event = { id = germany.1 days = 1 }
+		add_stability = -0.05
+		log = "[GetDateText]: [Root.GetName]: GER_current_situation"
+	}
+	dynamic = yes
+}
+
+shared_focus = {
+	id = USA_Meet_Tenet
+	icon = GFX_focus_USA_Dying_Bald_Eagle
+	relative_position_id = USA_Claws_in_Shadow
+	x = 0
+	y = 1
+	cost = 2
+	ai_will_do = {
+		base = 100
+	}
+	prerequisite = { focus = USA_Claws_in_Shadow }
+	completion_reward = {
+		country_event = { id = germany.1 days = 1 }
+		add_stability = -0.05
+		log = "[GetDateText]: [Root.GetName]: GER_current_situation"
+	}
+	dynamic = yes
+}
+
+shared_focus = {
+	id = USA_Developing_new_strategy
+	icon = GFX_focus_USA_Dying_Bald_Eagle
+	relative_position_id = USA_Meet_Tenet
+	x = 0
+	y = 1
+	cost = 2
+	ai_will_do = {
+		base = 100
+	}
+	prerequisite = { focus = USA_Meet_Tenet }
+	completion_reward = {
+		country_event = { id = germany.1 days = 1 }
+		add_stability = -0.05
+		log = "[GetDateText]: [Root.GetName]: GER_current_situation"
+	}
+	dynamic = yes
+}
+
+shared_focus = {
+	id = USA_California_Boys_Operation
+	icon = GFX_focus_USA_Dying_Bald_Eagle
+	relative_position_id = USA_Meet_Tenet
+	x = 0
+	y = 1
+	cost = 2
+	ai_will_do = {
+		base = 100
+	}
+	prerequisite = { focus = USA_Meet_Tenet }
+	completion_reward = {
+		country_event = { id = germany.1 days = 1 }
+		add_stability = -0.05
+		log = "[GetDateText]: [Root.GetName]: GER_current_situation"
+	}
+	dynamic = yes
+}
+
+#DHS
+shared_focus = {
+	id = USA_Establish_DHS
+	icon = GFX_focus_USA_Dying_Bald_Eagle
+	relative_position_id = USA_American_Safety
+	x = 1
+	y = 1
+	cost = 2
+	ai_will_do = {
+		base = 100
+	}
+	prerequisite = { focus = USA_American_Safety }
+	completion_reward = {
+		country_event = { id = germany.1 days = 1 }
+		add_stability = -0.05
+		log = "[GetDateText]: [Root.GetName]: GER_current_situation"
+	}
+	dynamic = yes
+}
+
 
 shared_focus = {
 	id = USA_Meet_Bill_Gates
