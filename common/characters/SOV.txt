@@ -1,0 +1,18 @@
+haracters={
+    SOV_Griory_Romanov = {
+        name = "格里戈里·罗曼诺夫"
+        country_leader={
+            ideology = Neo-Stalinism
+            traits={
+
+            }
+            expires = "9999.12.31.1"
+            id = -1
+        }
+        portraits={
+            civilian={
+                large = GFX_portrait_SOV_Griory_Romanov
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+state = {
+    id = 102
+    name = "STATE_102"
+    
+    history = {
+        owner = FIN
+        victory_points = {
+			3125 1
+		}
+		victory_points = {
+			6045 1
+		}
+        buildings = {
+            infrastructure = 3
+        }
+        add_core_of = FIN
+    }
+
+    provinces = {
+        6045 3026 9233 11024 6134 3125 6146 13118
+    }
+    manpower = 207720
+    buildings_max_level_factor = 1.0
+    state_category = state_01
+}

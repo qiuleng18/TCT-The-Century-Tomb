@@ -1,0 +1,24 @@
+state = {
+	id = 1222
+	name = "STATE_1222"
+	manpower = 287000
+	state_category = state_00
+
+	history = {
+		owner = USA
+		add_core_of = USA
+		buildings = {
+			arms_factory = 1
+			air_base = 1
+			infrastructure = 3
+			internet_station = 1
+		}
+		}
+	
+
+	provinces = {
+	10337
+
+		}
+		
+	}

@@ -1,0 +1,28 @@
+state = {
+    id = 1193
+    name = "STATE_1193"
+    resources = {
+        chromium = 6
+    }
+
+    history = {
+        owner = FIN
+        victory_points = {
+			3122 1
+		}
+        buildings = {
+            infrastructure = 3
+            3122 = {
+                naval_base = 1
+            }
+        }
+        add_core_of = FIN
+    }
+
+    provinces = {
+        3172 3122 11126 
+    }
+    manpower = 197559
+    state_category = state_03
+	buildings_max_level_factor = 1.000
+}

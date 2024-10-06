@@ -769,18 +769,8 @@ capital = 91
 		}
 	}
 
-	recruit_character = SPR_alfonso_pardo_de_santayana_y_coloma
-	recruit_character = SPR_jaime_dominguez_buj
-	recruit_character = SPR_jose_julio_rodriguez_fernandez
-	recruit_character = SPR_fernando_gutierrez_diaz_de_otazu
-	recruit_character = SPR_pedro_pitarch_bartolome
-	recruit_character = SPR_antonio_planells
-	recruit_character = SPR_antonio_martorell_lacave
-	recruit_character = SPR_fernando_garcia_sanchez
-	recruit_character = SPR_francisco_jose_cortes_uria
-	recruit_character = SPR_francisco_jose_garcia_vega
-	recruit_character = SPR_jose_jimenez_ruiz
-
+	recruit_character = SPR_Rodrigo_Rato
+	
 	if = {
 		limit = {
 			not = { has_dlc = "Man the Guns" }

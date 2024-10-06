@@ -1,0 +1,29 @@
+State = {
+	id = 1206
+	name = "STATE_1206"
+	manpower = 2452100
+	state_category = state_02
+
+	history = {
+		owner = USA
+		add_core_of = USA
+		victory_points = { 805 10 } #Dallas
+		buildings = {
+			infrastructure = 3
+			internet_station = 2
+			arms_factory = 3
+			dockyard = 2
+			air_base = 5
+			industrial_complex = 3
+			offices = 10
+			fuel_silo = 2
+		}
+		}
+	
+
+	provinces = {
+	805 3960 12341
+
+		}
+		
+	}

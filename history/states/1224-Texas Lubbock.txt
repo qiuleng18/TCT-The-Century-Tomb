@@ -1,0 +1,24 @@
+State = {
+	id = 1224
+	name = "STATE_1224"
+	manpower = 287000
+	state_category = state_00
+
+	history = {
+		owner = USA
+		add_core_of = USA
+		victory_points = { 15382 1 } #Lubbock
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			air_base = 1
+		}
+		}
+	
+
+	provinces = {
+		15382 15381
+
+		}
+		
+	}

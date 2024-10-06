@@ -1,0 +1,16 @@
+characters={
+   FRA_Alain_Juppé = {
+    name = "阿兰·朱佩"
+    country_leader={
+        ideology = Gaullism
+        traits= { }
+        expire="9999.12.31.1"
+        id=-1
+    }
+    portraits={
+        civilian={
+            large = GFX_portrait_FRA_Alain_Juppé
+        }
+    }
+   }
+}

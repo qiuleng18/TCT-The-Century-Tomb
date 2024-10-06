@@ -3406,55 +3406,7 @@
 		}
 	}
 
-	#Chief of general staff
-	recruit_character = SOV_viktor_samsonov
-	recruit_character = SOV_anatoly_kvashnin
-	recruit_character = SOV_yuri_baluyevsky
-	recruit_character = SOV_nikolai_makarov
-
-	#Commander in Chief of the Russian Army
-	recruit_character = SOV_vladimir_semyonov
-	recruit_character = SOV_nikolai_kormiltsev
-	recruit_character = SOV_alexey_maslov
-	recruit_character = SOV_vladimir_boldyrev
-
-	#Commander in Chief of the Russian Air Forces
-	recruit_character = SOV_anatoly_kornukov
-	recruit_character = SOV_vladimir_mikhaylov
-	recruit_character = SOV_alexander_zelin
-	recruit_character = SOV_sergey_surovikin
-
-	#Commander in Chief of the Russian Navy
-	recruit_character = SOV_vladimir_kuroyedov
-	recruit_character = SOV_vladimir_masorin
-	recruit_character = SOV_vladimir_vysotsky
-
-	#Field Marshall
-	recruit_character = SOV_igor_sergeyev
-	recruit_character = SOV_pavel_popov
-
-	#Corps Commander
-	recruit_character = SOV_yuriy_sadovenko
-	recruit_character = SOV_igor_borisovich_tymofeyev
-	recruit_character = SOV_vadym_ivanovych_pankov
-	recruit_character = SOV_vladimir_anatolievich_kochetkov
-	recruit_character = SOV_aleksandr_ivanovich_lentsov
-	recruit_character = SOV_aleksej_vladimirovich_zavizion
-	recruit_character = SOV_andrey_leonidovich_krasov
-	recruit_character = SOV_gennady_anashkin
-	recruit_character = SOV_alexander_lapin
-	recruit_character = SOV_yakov_rezantsev
-	recruit_character = SOV_oleg_salyukov
-	recruit_character = SOV_valery_gerasimov
-
-	#admirals
-	recruit_character = SOV_vladimir_korolev
-	recruit_character = SOV_aleksandr_viktorovich_vitko
-	recruit_character = SOV_nikolay_yevmenov
-	recruit_character = SOV_sergei_avakyants
-	recruit_character = SOV_viktor_nikolayevich_mardusin
-	recruit_character = SOV_alexander_nosatov
-	recruit_character = SOV_viktor_petrovich_kravchuk
+	recruit_characher = SOV_Griory_Romanov
 
 	#### Land Equipment Variants ####
 	#MOVED TO THE else IN if has_dlc = "No Step Back"

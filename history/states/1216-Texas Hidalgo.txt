@@ -1,0 +1,26 @@
+State = {
+	id = 1216
+	name = "STATE_1216"
+	manpower = 452000
+	state_category = state_01
+
+	history = {
+		owner = USA
+		add_core_of = USA
+		victory_points = { 12369 3 } #McAllen
+
+		buildings = {
+			infrastructure = 3
+            arms_factory = 1
+			air_base = 1
+			industrial_complex = 1
+		}
+		}
+	
+
+	provinces = {
+		15356 12369
+
+		}
+		
+	}

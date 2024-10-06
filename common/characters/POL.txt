@@ -1,0 +1,18 @@
+characters={
+    POL_Jarosław_Kaczyński = {
+        name = "雅罗斯瓦夫·卡钦斯基"
+        country_leader={
+            ideology =  national_conservatism
+            traits = { 
+
+            }
+            expire = "9999.12.31.1"
+            id = -1
+        }
+        portraits={
+            civilian={
+                large = GFX_portrait_POL_Jarosław_Kaczyński
+            }
+        }
+    }
+}

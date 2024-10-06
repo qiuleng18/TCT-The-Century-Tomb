@@ -1078,10 +1078,11 @@
 	recruit_character = JAP_Masayoshi_Fukuda
 
 	set_popularities = {
-		Vanguard_socialism = 100
+		communism = 64
+		socialism = 36
 	}
 	set_politics = {
-		ruling_party = Vanguard_socialism
+		ruling_party = communism
 		last_election = "1934.7.12"
 		election_frequency = 48
 		elections_allowed = no

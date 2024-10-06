@@ -1,0 +1,28 @@
+State = {
+	id = 1220
+	name = "STATE_1220"
+	manpower = 3128000
+	state_category = state_01
+
+	history = {
+		owner = USA
+		add_core_of = USA
+		victory_points = { 15368 20 } #Austin
+		victory_points = { 6798 1 } #Taylor
+		victory_points = { 15369 1 } #Killeen
+		buildings = {
+			infrastructure = 3
+            arms_factory = 2
+			air_base = 2
+			offices = 2
+			15355 = { naval_base = 2 }
+		}
+		}
+	
+
+	provinces = {
+		6798 15368 15369 15367 15355
+
+		}
+		
+	}

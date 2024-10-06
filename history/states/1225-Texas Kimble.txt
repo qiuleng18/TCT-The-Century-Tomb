@@ -1,0 +1,23 @@
+state = {
+	id = 1225
+	name = "STATE_1225"
+	manpower = 871200
+	state_category = state_00
+
+	history = {
+		owner = USA
+		add_core_of = USA
+		victory_points = { 7836 1 } #Junction
+
+		buildings = {
+			infrastructure = 3
+            arms_factory = 1
+		}
+		}
+	
+
+	provinces = {
+		7836 15365
+		}
+		
+	}

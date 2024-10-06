@@ -1,0 +1,55 @@
+ideas = {
+
+	country = {
+		USA_disappearance_democracy = {
+
+			name = USA_disappearance_democracy
+
+			picture = "GFX_idea_USA_disappearance_democracy"
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				original_tag = USA
+			}
+		}
+
+		USA_impact_of_corporate_meetings = {
+
+			name = USA_impact_of_corporate_meetings
+
+			picture = "GFX_idea_USA_impact_of_corporate_meetings"
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				original_tag = USA
+			}
+		}
+
+		USA_Shadow_Cuban_Nuclear_Exchange = {
+
+			name = USA_Shadow_Cuban_Nuclear_Exchange
+
+			picture = "GFX_idea_USA_disappearance_democracy"
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				original_tag = USA
+			}
+		}
+	}
+}

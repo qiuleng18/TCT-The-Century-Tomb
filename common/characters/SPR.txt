@@ -1,0 +1,16 @@
+characters={
+    SPR_Rodrigo_Rato = {
+        name = "罗德里戈·拉托"
+        country_leader={
+            ideology = Economic_Liberalism
+            traits={}
+            expire="9999.12.31.1"
+            id=-1
+        }
+        portraits={
+            civilian={ 
+                large = GFX_portrait_SPR_Rodrigo_Rato
+            }
+        }
+    }
+}

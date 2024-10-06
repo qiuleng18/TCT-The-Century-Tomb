@@ -1,0 +1,23 @@
+state = {
+	id = 1211
+	name = "STATE_1211"
+	manpower = 35412
+	state_category = state_00
+
+	history = {
+		owner = USA
+		add_core_of = USA
+		victory_points = { 15363 1 } #Del Rio
+		buildings = {
+			arms_factory = 2
+
+		}
+		}
+	
+
+	provinces = {
+		15363 2019
+
+		}
+		
+	}

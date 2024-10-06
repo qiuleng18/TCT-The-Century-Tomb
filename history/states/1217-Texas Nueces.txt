@@ -1,0 +1,27 @@
+state = {
+	id = 1217
+	name = "STATE_1217"
+	manpower = 612300
+	state_category = state_02
+
+	history = {
+		owner = USA
+		add_core_of = USA
+		victory_points = { 2042 5 } #Corpus Cristi
+
+		buildings = {
+			infrastructure = 2
+			internet_station = 2
+			industrial_complex = 2
+			arms_factory = 4
+			2042 = { naval_base = 1 }
+		}
+		}
+	
+
+	provinces = {
+		6987 2042 15358 6785
+
+		}
+		
+	}

@@ -1,0 +1,24 @@
+state = {
+	id = 1210
+	name = "STATE_1210"
+	manpower = 20100
+	state_category = state_00
+
+	history = {
+		victory_points = { 4955 1 } #Odessa
+		owner = USA
+		add_core_of = USA
+
+		buildings = {
+			arms_factory = 1
+
+		}
+		}
+	
+
+	provinces = {
+		4955 5022
+
+		}
+		
+	}

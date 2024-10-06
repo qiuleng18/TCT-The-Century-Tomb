@@ -1,0 +1,28 @@
+spriteTypes = {	
+
+
+
+	SpriteType = {
+		name = "GFX_idea_traits_strip"
+		texturefile = "gfx/interface/ideas/idea_traits_strip.dds"
+		noOfFrames = 18
+	}
+
+	### new tfv nat spirit icons
+
+	spriteType = {
+		name = "GFX_idea_USA_disappearance_democracy"
+		texturefile = "gfx/ideas/USA/idea_USA_disappearance_democracy.dds"
+	}		
+	
+	spriteType = {
+		name = "GFX_idea_USA_impact_of_corporate_meetings"
+		texturefile = "gfx/ideas/USA/idea_USA_impact_of_corporate_meetings.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_USA_Shadow_Cuban_Nuclear_Exchange"
+		texturefile = "gfx/ideas/USA/idea_USA_Shadow_Cuban_Nuclear_Exchange.dds"
+	}
+}
+

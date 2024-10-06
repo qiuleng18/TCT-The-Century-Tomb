@@ -1,0 +1,18 @@
+characters={
+    ITA_Mario_Monti = {
+        name = "马里奥·蒙蒂"
+        country_leader={
+            ideology = Capitalism_Technocracy
+            traits = {
+
+            }
+            expire="9999.12.31.1"
+            id = -1
+        }
+        portraits={
+            civilian={
+                large = GFX_portrait_ITA_Mario_Monti
+            }
+        }
+    }
+}

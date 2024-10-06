@@ -331,18 +331,18 @@ set_convoys = 300
 
 
 set_politics = {
-	ruling_party = Democratic_Conservatism
+	ruling_party = liberal_conservatism
 	last_election = "1932.5.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	Democratic_Conservatism = 55
-	Totalitarian_nationalism = 3
-	Radical_socialism = 30
-	Moderate_socialism = 6
-	Progressive_liberalism = 3
-	Authoritarian_authoritarianism = 3
+	liberal_conservatism = 55
+	Extreme_revanchism = 3
+	communism = 30
+	socialism = 6
+	progressivism = 3
+	authoritarianism = 3
 }
 
 add_ideas = {
@@ -355,13 +355,8 @@ add_ideas = {
 	FRA_inefficient_economy_2
 }
 
-give_guarantee = CZE
-give_guarantee = YUG
-give_guarantee = ROM
 
-
-recruit_character = FRA_charles_de_gaulle
-recruit_character = FRA_Maximilien_de_Robespierre
+recruit_character = FRA_Alain_Juppé
 
 
 

@@ -1,0 +1,29 @@
+state = {
+	id = 1207
+	name = "STATE_1207"
+	manpower = 26008
+	state_category = state_00
+
+	history = {
+		owner = USA
+		add_core_of = USA
+		victory_points = { 15360 1 } #Van Horn
+		victory_points = { 10740 5 } #El Paso
+		victory_points = { 15359 1 } #Fort Hancock
+
+		buildings = {
+			infrastructure = 2
+			internet_station = 2
+			industrial_complex = 2
+			arms_factory = 1
+
+		}
+		}
+	
+
+	provinces = {
+		  10740 15359 10894 15360
+
+		}
+		
+	}

@@ -1,0 +1,16 @@
+characters={
+    BEL_Alexander_de_Croo = {
+        name = "亚历山大·德克罗"
+        country_leader={
+            ideology = Economic_Liberalism
+            traits={
+
+            }
+            expire = "9999.12.31.1"
+            id = -1
+        }
+        portraits={
+            large = GFX_portrait_BEL_Alexander_de_Croo
+        }
+    }
+}

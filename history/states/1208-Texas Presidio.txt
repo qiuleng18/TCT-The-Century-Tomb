@@ -1,0 +1,28 @@
+state = {
+	id = 1208
+	name = "STATE_1208"
+	manpower = 42900
+	state_category = state_00
+
+	history = {
+		owner = USA
+		add_core_of = USA
+		victory_points = { 1954 1 } #Marfa
+		victory_points = { 15361 1 } #Marathon
+
+		buildings = {
+			infrastructure = 2
+			internet_station = 2
+			industrial_complex = 2
+			arms_factory = 1
+
+		}
+		}
+	
+
+	provinces = {
+		 1954 15391 15361
+
+		}
+		
+	}

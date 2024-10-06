@@ -1,0 +1,27 @@
+State = {
+	id = 1215
+	name = "STATE_1215"
+	manpower = 300000
+	state_category = state_01
+
+	history = {
+		owner = USA
+		add_core_of = USA
+		victory_points = { 5061 5 } #Laredo
+
+		buildings = {
+			infrastructure = 1
+            arms_factory = 1
+			air_base = 1
+			industrial_complex = 1
+			offices = 2
+		}
+		}
+	
+
+	provinces = {
+		5061 
+
+		}
+		
+	}
